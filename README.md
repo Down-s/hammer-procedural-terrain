@@ -1,5 +1,7 @@
-# hammer-procedural-terrain
-A tool for generating procedurally generated displacements using Perlin Noise
+# Hammer Procedural Terrain
+A tool for generating procedurally generated displacements using Perlin Noise.
+
+Please create an issue if you have any problems.
 
 ## Preview
 ![Alt](https://grust.co/new/cdn/hammer-procgen.gif)
